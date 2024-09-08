@@ -1,2 +1,0 @@
-# Gestion De Citas
- Aplicacion
